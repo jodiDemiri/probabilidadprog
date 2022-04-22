@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Operations
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createInterfaz()
+comment3.params=n\ N
+comment3.target=java.lang.String\ probNormal(java.lang.String,\ java.lang.String)
+comment4.params=n\ r
+comment4.target=java.lang.String\ permDistintos(java.lang.String,\ java.lang.String)
+comment5.params=n\ r
+comment5.target=java.lang.String\ Combinaciones(java.lang.String,\ java.lang.String)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7
